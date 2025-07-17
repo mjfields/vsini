@@ -1,0 +1,27 @@
+Vsini results for 'K2-33' ('')
+IGRINS K-band orders: [4, 5, 6, 12, 14]
+
+*** Weighted Mean +/- Standard Error of the Weighted Mean ***
+
+vsini = 8.420 +/- 0.759 km/s
+
+*************************************************************
+
+{order : vsini (km/s)}: {4: 11.001497405540311, 5: 5.658965515829397, 6: 8.745020538049523, 12: 8.314816579459858, 14: 8.38664008565184}
+{order : rv (km/s)}: {4: 8.400315879387232, 5: 7.900135345050074, 6: 7.700028657867143, 12: 7.700003219199969, 14: 7.60006925271517}
+{order : CCF-max (weight)}: {4: 1.0067712647177525, 5: 1.008779799854972, 6: 1.0062634781107174, 12: 1.0009436354378778, 14: 1.0021416513580177}
+{order : limb-darkening coeff}: {4: 0.1780859375000002, 5: 0.1664257812500002, 6: 0.1717578125000002, 12: 0.2155859375000004, 14: 0.2323730468750005}
+
+
+*************************************************************
+
+target path (fast rotator): 'c:\\Users\\mjfie\\Documents\\UNC_Research\\code\\example_code\\vsini\\spectra\\K2-33_SDCK_20210510_0021.spec_a0v.fits'
+template path (slow rotator): 'c:\\Users\\mjfie\\Documents\\UNC_Research\\code\\example_code\\vsini\\spectra\\M3.5_BD-156290_SDCK_20160713_0101.spec_a0v.fits'
+
+*************************************************************
+
+*** Template Information ***
+
+'M3.5; BD-15 6290'
+limb-darkening parameters: {'teff_tup': (3271, 157), 'logg': (4.8718, 0.0004)}
+reference: 'Stassun+2019'

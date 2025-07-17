@@ -1,0 +1,10 @@
+Combined Result for 'K2-33' ('')
+
+Spectra: ['20160225', '20210510']
+Template Keys: ['results-M3.5_BD-156290', 'results-M3.5_mu.02Her']
+
+------------------------------
+| vsini = 7.66 +/- 0.44 km/s |
+------------------------------
+
+(weighted mean +/- standard error of the weighted mean)
